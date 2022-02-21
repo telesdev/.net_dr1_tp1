@@ -1,0 +1,12 @@
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\bin\Debug\net6.0\Operacoes.deps.json
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\bin\Debug\net6.0\Operacoes.dll
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\bin\Debug\net6.0\Operacoes.pdb
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.csproj.AssemblyReference.cache
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.AssemblyInfoInputs.cache
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.AssemblyInfo.cs
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.dll
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\refint\Operacoes.dll
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\Operacoes.pdb
+C:\Users\thyago.ferreira\source\repos\TP1-ThyagoTeles\Operacoes\obj\Debug\net6.0\ref\Operacoes.dll
